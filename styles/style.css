@@ -1,0 +1,43 @@
+body.index {
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
+
+#endP {
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+  background-color: beige;
+}
+
+.LoginAdmin {
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
+
+.SignUp {
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
+
+.ResultLog {
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
+
+.LoginResult {
+  text-align: center;
+  color: white;
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
+
+.acceuilClient {
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
+
+.acceuilAdmin {
+  background-color: navy; /* Utilisation de la couleur bleu marine foncée */
+}
